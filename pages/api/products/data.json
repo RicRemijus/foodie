@@ -1,0 +1,339 @@
+[
+    {
+        "id": 1,
+        "product": "Jollof Rice",
+        "category": "rice",
+        "image": "/../public/fotos/jellofrice.jpg",
+        "price" : 2000.00
+    },
+    {
+        "id": 2,
+        "product": "Jollof Rice ",
+        "category": "rice",
+        "image": "/../public/fotos/Jollof-Rice-1.jpg",
+        "price": 2000.00
+    },
+    {
+        "id": 3,
+        "product": "Ofada Rice",
+        "category": "rice",
+        "image": "/../public/fotos/Ofada-Rice-and-StewJPG-1.jpg",
+        "price": 2000.00
+    },
+    {
+        "id": 4,
+        "product": "jollof",
+        "category": "rice",
+        "image": "/../public/fotos/Jollof-rice-scaled.jpg",
+        "price": 2000.00
+    },
+    {
+        "id": 5,
+        "product": "Fried Rice",
+        "category": "rice",
+        "image": "/../public/fotos/frieedrice.png",
+        "price": 2000.00
+    },
+    {
+        "id": 6,
+        "product": "Jollof Rice",
+        "category": "rice",
+        "image": "/../public/fotos/jollof2.jpg",
+        "price" : 2000.00
+    },
+    {
+        "id": 7,
+        "product": "Fried Rice ",
+        "category": "rice",
+        "image": "/../public/fotos/friedrice1.png",
+        "price": 2000.00
+    },
+    {
+        "id": 8,
+        "product": "Ofada Rice",
+        "category": "rice",
+        "image": "/../public/fotos/ofada-rice-0.jpg",
+        "price": 2000.00
+    },
+    {
+        "id": 9,
+        "product": "Jollof",
+        "category": "rice",
+        "image": "/../public/fotos/jollof0.jpg",
+        "price": 2000.00
+    },
+    {
+        "id": 10,
+        "product": "White Rice",
+        "category": "rice",
+        "image": "/../public/fotos/whiterice1.png",
+        "price": 2000.00
+    },
+    {
+        "id" : 11,
+        "product" : "Rice",
+        "category" : "rice",
+        "image" : "/../public/fotos/jollof0.png",
+        "price" : 2000.00
+    },
+    {
+        "id" : 12,
+        "product" : "Rice",
+        "category" : "rice",
+        "image" : "/../public/fotos/jollof6.jpg",
+        "price" : 2000.00
+    },
+    {
+        "id" : 13,
+        "product" : "Dodo",
+        "category" : "beans",
+        "image" : "/../public/fotos/beans-with-fried-plantain.webp",
+        "price" : 2000.00
+    },
+    {
+        "id" : 14,
+        "product" : "MoiMoi",
+        "category" : "beans",
+        "image" : "/../public/fotos/moimoi1.png",
+        "price" : 2000.00
+    },
+    {
+        "id" : 15,
+        "product" : "Beans",
+        "category" : "beans",
+        "image" : "/../public/fotos/beans.jpg",
+        "price" : 2000.00
+    },
+    {
+       "id" : 16,
+        "product":"MoiMoi",
+        "category": "beans",
+        "image" : "/../public/fotos/moimoi.png",
+        "price":1500.00
+    },
+    {
+        "id" : 17,
+         "product":"Beans",
+         "category": "beans",
+         "image" : "/../public/fotos/beans0.jpg",
+         "price":1500.00
+     },
+     {
+        "id" : 18,
+         "product":"Dodo",
+         "category": "beans",
+         "image" : "/../public/fotos/dodo.webp",
+         "price":1500.00
+     },
+     {
+        "id" : 19,
+         "product":"Noodle with Fish",
+         "category": "noodles",
+         "image" : "/../public/fotos/noodles2.png",
+         "price":1500.00
+     },
+     {
+        "id" : 20,
+         "product":"Noodle with Egg",
+         "category": "noodles",
+         "image" : "/../public/fotos/noodles.png",
+         "price":1500.00
+     },
+     {
+        "id" : 21,
+         "product":"Noodle wih Cabbage",
+         "category": "noodles",
+         "image" : "/../public/fotos/noodles1.png",
+         "price":1500.00
+     },
+     {
+        "id" : 22,
+         "product":"Spaghetti",
+         "category": "noodles",
+         "image" : "/../public/fotos/spag.png",
+         "price":1500.00
+     },
+     {
+        "id" : 23,
+         "product":"Yam with Sauce",
+         "category": "noodles",
+         "image" : "/../public/fotos/yam&eggsauce.png",
+         "price":1500.00
+     },
+     {
+         "id":24,
+         "product":"Plantain with Sauce",
+         "category":"noodles",
+         "image" :"/../public/fotos/bolleh.png",
+         "price": 500
+     },
+    {
+        "id" : 25,
+        "product" : "Palmnut soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/palm.webp",
+        "price" : 2000.00
+    },
+    {
+        "id" : 26,
+        "product" : "Oha Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/oha.jpg",
+        "price" : 2000.00
+    },
+    {
+        "id" : 27,
+        "product" : "Okra soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/okrosoup-1.webp",
+        "price" : 2000.00
+    },
+    {
+        "id" : 28,
+        "product" : "Vegetable Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/veg.png",
+        "price" : 2000.00
+    },
+    {
+        "id" : 29,
+        "product" : "Bitterleaf Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/ebaWithbitterleaf.png",
+        "price" : 2000.00
+    },
+    {
+        "id" : 30,
+        "product" : "Egusi Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/egusi&fufu.jpg",
+        "price" : 1500.00
+    },
+    {
+        "id" : 31,
+        "product" : "Egusi Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/egusi.png",
+        "price" : 3500.00
+    },
+    {
+        "id" : 32,
+        "product" : "Okra Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/okraa.jpg",
+        "price" : 23500.00
+    },
+    {
+        "id" : 33,
+        "product" : "Oha Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/ohasoup.png",
+        "price" : 4000.00
+    },
+    {
+        "id" : 34,
+        "product" : "Okra Soup with Fish",
+        "category" : "soup",
+        "image" : "/../public/fotos/okra.png",
+        "price" : 4000.00
+    },
+    {
+        "id" : 35,
+        "product" : "Egusi Soup with Fufu",
+        "category" : "soup",
+        "image" : "/../public/fotos/egusi1.png",
+        "price" : 4000.00
+    },
+    {
+        "id" : 36,
+        "product" : "Edikai Ikong Soup",
+        "category" : "soup",
+        "image" : "/../public/fotos/savingpng-232.webp",
+        "price" : 4000.00
+    },
+    {
+        "id" : 37,
+        "product" : "Abacha1",
+        "category" : "abacha",
+        "image" : "/../public/fotos/abacha2.png",
+        "price" : 4500.00
+    },
+    {
+        "id" : 38,
+        "product" : "Nkwobi",
+        "category" : "abacha",
+        "image" : "/../public/fotos/nkwobi0.jpg",
+        "price" : 4500.00
+    },
+    {
+        "id" : 39,
+        "product" : "Abacha2",
+        "category" : "abacha",
+        "image" : "/../public/fotos/abacha3.webp",
+        "price" : 4500.00
+    },
+    {
+        "id" : 40,
+        "product" : "Nkwobi2",
+        "category" : "abacha",
+        "image" : "/../public/fotos/nkwobi1.webp",
+        "price" : 5000.00
+    },
+    {
+        "id" : 41,
+        "product" : "Abacha3",
+        "category" : "abacha",
+        "image" : "/../public/fotos/abacha0.jpg",
+        "price" : 5000.00
+    },
+    {
+        "id" : 42,
+        "product" : "Nkwobi3",
+        "category" : "abacha",
+        "image" : "/../public/fotos/nkwobi2.jpg",
+        "price" : 3500.00
+    },
+    {
+        "id" : 43,
+        "product" : "Abacha2",
+        "category" : "abacha",
+        "image" : "/../public/fotos/abacha.jpg",
+        "price" : 4500.00
+    },
+    {
+        "id" : 44,
+        "product" : "Nkwobi2",
+        "category" : "abacha",
+        "image" : "/../public/fotos/nkwobi5.jpg",
+        "price" : 5000.00
+    },
+    {
+        "id" : 45,
+        "product" : "Abacha3",
+        "category" : "abacha",
+        "image" : "/../public/fotos/abacha4.jpg",
+        "price" : 5000.00
+    },
+    {
+        "id" : 46,
+        "product" : "Nkwobi3",
+        "category" : "abacha",
+        "image" : "/../public/fotos/nkwobi.jpg",
+        "price" : 3500.00
+    },
+    {
+        "id" : 47,
+        "product" : "Abacha3",
+        "category" : "abacha",
+        "image" : "/../public/fotos/abacha5.jpg",
+        "price" : 5000.00
+    },
+    {
+        "id" : 48,
+        "product" : "Nkwobi3",
+        "category" : "abacha",
+        "image" : "/../public/fotos/nkwobi0.jpg",
+        "price" : 3500.00
+    }
+    
+]

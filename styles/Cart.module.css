@@ -1,0 +1,134 @@
+.tableHead {
+  margin-top: 5rem;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 1.7rem;
+  background-color: #c3d2d3;
+}
+.emptycart {
+  margin: 10rem;
+  text-align: center;
+}
+.checkoutBtn {
+  font-size: 2rem;
+  border: 2px solid green;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: #4caf50;
+}
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.th,
+.td {
+  text-align: center;
+  padding: 8px;
+}
+
+.tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.tr:hover {
+  background-color: #c3d2d3;
+}
+
+.th {
+  text-transform: uppercase;
+  background-color: #4caf50;
+  color: white;
+}
+.td {
+  font-weight: 900;
+}
+.td > * {
+  width: 25px;
+  height: 30px;
+  background: green;
+  color: white;
+  border: none;
+  margin: 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+  justify-self: center;
+  justify-content: center;
+  align-items: center;
+}
+.td > *:hover {
+  background-color: red;
+}
+.gt,
+.gtl {
+  text-align: center;
+  padding: 2rem;
+}
+.gtl {
+  background-color: cadetblue;
+}
+@media (min-width: 280px) and (max-width: 320px) {
+  .tableHead,
+  .checkoutBtn {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .th {
+    font-size: 0.35rem;
+    font-weight: 900;
+    background-color: black;
+  }
+  .table {
+    color: indigo;
+    font-size: 0.76rem;
+    font-weight: 700;
+  }
+}
+@media (min-width: 360px) and (max-width: 375px) {
+  .tableHead,
+  .checkoutBtn {
+    font-size: 0.7rem;
+    font-weight: 900;
+  }
+  .th {
+    font-size: 0.5rem;
+  }
+  .table {
+    color: indigo;
+    font-size: 1rem;
+    font-weight: 800;
+  }
+}
+@media (min-width: 411px) and (max-width: 414px) {
+  .table {
+    font-weight: 900;
+  }
+  .tableHead,
+  .checkoutBtn {
+    font-size: 1.3rem;
+    font-weight: 900;
+  }
+  .th {
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .table {
+    font-weight: 900;
+  }
+  .tableHead,
+  .checkoutBtn {
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .th {
+    font-size: 1.6rem;
+    font-weight: 900;
+  }
+  .td {
+    color: red;
+    font-size: 1.8rem;
+  }
+  .emptycart {
+    position: relative;
+  }
+}

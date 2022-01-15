@@ -1,0 +1,89 @@
+.container {
+  height: 300px;
+  background: #222;
+  display: flex;
+}
+.brand {
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: lavender;
+}
+.item {
+  flex: 1;
+  position: relative;
+  display: flex;
+}
+.item:last-child {
+  flex: 2;
+}
+.card {
+  flex: 1;
+  padding: 0 10px;
+}
+.title {
+  font-size: 18px;
+  color: #b7903c;
+}
+.text {
+  color: lavender;
+}
+.motto {
+  color: rgb(211, 211, 211);
+}
+.footer {
+  color: #b7903c;
+  padding: 1rem 0;
+  text-align: center;
+  background-color: hsl(0, 0%, 24%);
+}
+@media (max-width: 320px) {
+  .container {
+    height: 14rem;
+    display: block;
+  }
+  .motto {
+    font-size: 0.7rem;
+  }
+  .text {
+    font-size: 0.6rem;
+  }
+  .title {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 540px) {
+  .container {
+    width: 100%;
+    display: flex !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  /*.item:last-child {
+    flex: 1;
+  }*/
+  .motto {
+    font-size: 1rem;
+  }
+  .text {
+    font-size: 0.8rem;
+  }
+  .title {
+    font-size: 0.9rem;
+  }
+
+  .footer {
+    width: 100%;
+  }
+}
+@media (min-width: 600px) and (max-width: 768px) {
+  .container {
+    height: 22rem;
+  }
+  .motto {
+    font-size: 1.2rem;
+  }
+  .title {
+    font-size: 1.2rem;
+  }
+}

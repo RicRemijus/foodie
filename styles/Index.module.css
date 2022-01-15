@@ -1,0 +1,21 @@
+.container {
+  padding: 0.2rem;
+  width: 100%;
+}
+.small {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.large {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+@media (max-width: 540px) {
+  .container {
+    width: 100%;
+  }
+  .small,
+  .large {
+    display: block;
+  }
+}
