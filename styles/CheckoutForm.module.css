@@ -1,0 +1,9 @@
+.submitBtn {
+  cursor: pointer;
+  font-size: 2rem;
+  border: 2px solid green;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: #4caf50;
+  transition: all 0.1s ease-in;
+}
